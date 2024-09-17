@@ -88,7 +88,8 @@ Follow the instructions below to set up and run CampusConnect on your local mach
 
 ## Results :
 
-<img width="1032" alt="image" src="https://github.com/NavyaBatchu0712/Campus-Connect/assets/61104591/d6e3973c-0a5d-4494-aa1b-691c96ae0ab4">
+<img width="1032" alt="image" src="<img width="435" alt="image" src="https://github.com/user-attachments/assets/9ecb591b-7816-4627-aed6-372097c5e607">
+">
 
 
 
