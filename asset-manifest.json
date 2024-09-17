@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sac-State-VirtualBot/static/css/main.806548ea.css",
+    "main.js": "/Sac-State-VirtualBot/static/js/main.eddca8f8.js",
+    "static/js/453.2ec17264.chunk.js": "/Sac-State-VirtualBot/static/js/453.2ec17264.chunk.js",
+    "index.html": "/Sac-State-VirtualBot/index.html",
+    "main.806548ea.css.map": "/Sac-State-VirtualBot/static/css/main.806548ea.css.map",
+    "main.eddca8f8.js.map": "/Sac-State-VirtualBot/static/js/main.eddca8f8.js.map",
+    "453.2ec17264.chunk.js.map": "/Sac-State-VirtualBot/static/js/453.2ec17264.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.806548ea.css",
+    "static/js/main.eddca8f8.js"
+  ]
+}
